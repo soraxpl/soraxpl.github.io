@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/Xnuvers007/DAFTAR-WEBSITE-MENARIK?style=social)](https://github.com/Xnuvers007/DAFTAR-WEBSITE-MENARIK/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/soraxpl/soraxpl.github.io?style=social)](https://github.com/soraxpl/soraxpl.github.io/stargazers)
 
 # Daftar Website dan API Menarik dari belahan Dunia
 
