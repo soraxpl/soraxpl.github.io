@@ -37,7 +37,10 @@ No| Website Name      |   Developer   |                   URL                   
 9 | Presentasi AI   |   Magical Tome   | [link](https://beta.tome.app/) |  :heavy_check_mark: |  a site that helps humans to make presentations with a word or sentence |
 10 | Search Image by Method Reverse (google)     |   Digital Inspiration  | [link](https://www.labnol.org/reverse/) |  :heavy_check_mark: |  A site for image search and finding the image you want to find even close to the original one |
 11 | Random Team Generator     |   Ryuuwiz  | [link](https://team-generator-nine.vercel.app/) |  :heavy_check_mark: |  Create groups randomly and fairly |
-
+12 | Random Team Generator 2     |   Random Team Generator  | [link](https://randomteamgenerator.com/) |  :heavy_check_mark: |  Create groups randomly and fairly |
+13 | Translate     |   Google Translate  | [link](https://translate.google.com/) |  :heavy_check_mark: |  Translate text or sentences into other languages |
+14 | Translate 2     |   DeepL  | [link](https://www.deepl.com/translator) |  :heavy_check_mark: |  Translate text or sentences into other languages |
+15 | Translate Document     |   Doctranslator  | [link](https://www.onlinedoctranslator.com/en/translationform) |  :heavy_check_mark: |  Translate documents into other languages |
 
 # API
 ### Content
@@ -54,6 +57,7 @@ No| Nama API      |   Developer   |                   URL                   |   
 9 | Random Image 4     |   Lorem Picsum  | [link](https://picsum.photos/) |  :heavy_check_mark: |  API to get random image data |
 10 | Any-API     |   Any-API  | [link](https://any-api.com/) |  :heavy_check_mark: |  A website with many API services and documentation of each specific web API |
 11 | Jikan API     |   Jikan.moe  | [link](https://jikan.moe/) |  :heavy_check_mark: |  unofficial MyAnimeList API to get anime and manga data from MyAnimeList |
+12 | Speedtest Internet & Websites     |   Xnuvers007  | [link](https://wikiscrape.xnuvers007.repl.co/speedtest?domain=) |  :heavy_check_mark: |  API to test the speed of your internet connection |
 
 # Contact
 If you have anything to add, please contact me via [My Facebook](https://www.facebook.com/profile.php?id=100009439790329) yeah...!!! Or you can directly Edit and Pull Requests on Github.
