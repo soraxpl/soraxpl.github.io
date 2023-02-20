@@ -58,6 +58,7 @@ No| Nama API      |   Developer   |                   URL                   |   
 10 | Any-API     |   Any-API  | [link](https://any-api.com/) |  :heavy_check_mark: |  Sebuah website dengan layanan API yang banyak serta dokumentasi dari setiap API Web tertentu |
 11 | Jikan API     |   Jikan.moe  | [link](https://jikan.moe/) |  :heavy_check_mark: |  Unofficial MyAnimeList API untuk mendapatkan data anime dan manga dari MyAnimeList |
 12 | Speedtest Internet & website |   Xnuvers007  | [link](https://wikiscrape.xnuvers007.repl.co/speedtest?domain=) |  :heavy_check_mark: |  API untuk mengetahui kecepatan internet dan ping website |
+13 | ChatGPT    |    Openai     |   [link](https://platform.openai.com/account/api-keys) <br /> [usage API](https://platform.openai.com/docs/api-reference/introduction)    |   :heavy_check_mark:  |   Apikey yang disediakan untuk membuat ChatGPT berada di aplikasi anda
 
 # Kontak
 Jika ada yang ingin ditambahkan silahkan hubungi saya melalui [Facebook saya](https://www.facebook.com/profile.php?id=100009439790329) ya.! Atau bisa juga langsung Edit dan Pull Request di Github ini.
