@@ -58,6 +58,7 @@ No| Nama API      |   Developer   |                   URL                   |   
 10 | Any-API     |   Any-API  | [link](https://any-api.com/) |  :heavy_check_mark: |  A website with many API services and documentation of each specific web API |
 11 | Jikan API     |   Jikan.moe  | [link](https://jikan.moe/) |  :heavy_check_mark: |  unofficial MyAnimeList API to get anime and manga data from MyAnimeList |
 12 | Speedtest Internet & Websites     |   Xnuvers007  | [link](https://wikiscrape.xnuvers007.repl.co/speedtest?domain=) |  :heavy_check_mark: |  API to test the speed of your internet connection |
+13 | ChatGPT    |    Openai     |   [link](https://platform.openai.com/account/api-keys) <br /> [usage API](https://platform.openai.com/docs/api-reference/introduction)    |   :heavy_check_mark:  |   API provided to make ChatGPT reside in your application
 
 # Contact
 If you have anything to add, please contact me via [My Facebook](https://www.facebook.com/profile.php?id=100009439790329) yeah...!!! Or you can directly Edit and Pull Requests on Github.
