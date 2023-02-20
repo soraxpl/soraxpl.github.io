@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html oncontextmenu="return false">
 <head>
   <title>Daftar Website Menarik</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta charset="UTF-8">
   <meta name="keywords" content="Website, Indonesia, menarik, blog, projects, programming, xnuvers">
   <meta property="og:author" content="Kumpulan Website Menarik | Xnuvers007">
@@ -16,43 +16,86 @@
   <meta name="language" content="Indonesia">
 </head>
 <body bgcolor="black">
-      <SCRIPT LANGUAGE="JavaScript">
+      <!-- Add the SweetAlert library -->
+      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.2/dist/sweetalert2.all.min.js"></script>
+      <script>
         var message="Sorry,Right click disabled. Message from Xnuvers007";
         ///////////////////////////////////
-        function clickIE() {if (document.all) {alert(message);return false;}}
-        function clickNS(e) {if 
-        (document.layers||(document.getElementById&&!document.all)) {
-        if (e.which==2||e.which==3) {alert(message);return false;}}}
-        if (document.layers) 
-        {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
-        else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+        function clickIE() {
+          if (document.all) {
+            // Replace the alert() function with a SweetAlert dialog
+            Swal.fire({
+              title: 'Oops!',
+              text: message,
+              icon: 'warning',
+              confirmButtonText: 'OK'
+            });
+            return false;
+          }
+        }
+        
+        function clickNS(e) {
+          if (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {
+              // Replace the alert() function with a SweetAlert dialog
+              Swal.fire({
+                title: 'Oops!',
+                text: message,
+                icon: 'warning',
+                confirmButtonText: 'OK'
+              });
+              return false;
+            }
+          }
+        }
+        
+        if (document.layers) {
+          document.captureEvents(Event.MOUSEDOWN);
+          document.onmousedown=clickNS;
+        }
+        else{
+          document.onmouseup=clickNS;
+          document.oncontextmenu=clickIE;
+        }
 
-        document.oncontextmenu=new Function("return false")
-        // --> 
-      </script>
+        document.oncontextmenu=new Function("return false");
 
-<!-- This code for disable left click -->
-
-      <script type="text/JavaScript">
-
+        // Replace the alert() function with a SweetAlert dialog
         function disableselect(e){
-        return false
+          Swal.fire({
+            title: 'Oops!',
+            text: 'Selecting is disabled',
+            icon: 'warning',
+            confirmButtonText: 'OK'
+          });
+          return false;
         }
+
         function reEnable(){
-        return true
+          return true;
         }
-        document.onselectstart=new Function ("return false")
+
+        document.onselectstart=new Function ("return false");
+
         if (window.sidebar){
-        document.onmousedown=disableselect
-        document.onclick=reEnable
+          document.onmousedown=disableselect;
+          document.onclick=reEnable;
         }
+        let docTitle = document.title;
+        window.addEventListener('blur', function() {
+          document.title = 'Come back! :(';
+        });
+        window.addEventListener('focus', function() {
+          document.title = docTitle;
+        });
       </script>
-  <noscript>This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/Xnuvers007/DAFTAR-WEBSITE-MENARIK">Here</a>.</noscript>
+
+  <noscript>This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/soraxpl/soraxpl.github.io">Here</a>.</noscript>
   <div id="app">Loading...</div>
   <script>
     window.$docsify = {
-      name: 'Daftar Website Menarik',
-      repo: 'Xnuvers007/DAFTAR-WEBSITE-MENARIK',
+      name: 'Daftar Website Menarik / Lists of interesting websites',
+      repo: 'soraxpl/soraxpl.github.io',
       search: ['/'],
       relativePath: true,
     }
