@@ -1,16 +1,17 @@
 [![GitHub stars](https://img.shields.io/github/stars/Xnuvers007/DAFTAR-WEBSITE-MENARIK?style=social)](https://github.com/Xnuvers007/DAFTAR-WEBSITE-MENARIK/stargazers)
 
-# Daftar Website / API Menarik dari belahan Dunia
+# Daftar Website dan API Menarik dari belahan Dunia
 
 Kumpulan Website / API tentang data dan informasi berguna yang ada di dunia
 
-## English
+## Bahasa
 - [English](README-EN.md)
+- [Indonesia](README.md)
 
 # Daftar isi
 
-- [Daftar Website / API menarik dari belahan Dunia](#daftar-website--api-menarik-dari-belahan-dunia)
-- [English](#english)
+- [Daftar Website / API Menarik dari belahan Dunia](#daftar-website-dan-api-menarik-dari-belahan-dunia)
+- [Bahasa](#bahasa)
     - [Daftar Isi](#daftar-isi)
         - [Website](#website)
             - [Isi](#isi)
