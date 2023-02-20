@@ -12,8 +12,40 @@
   <meta property="og:image" content="https://github.com/fluidicon.png">
   <meta name="description" content="Selamat datang...! semoga bermanfaat dengan adanya github readme sepert ini, atas dasar pembangunan dari Xnuvers007">
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+  <meta name="color-scheme" content="dark">
 </head>
 <body>
+      <SCRIPT LANGUAGE="JavaScript">
+        var message="Sorry,Right click disabled. Message from Xnuvers007";
+        ///////////////////////////////////
+        function clickIE() {if (document.all) {alert(message);return false;}}
+        function clickNS(e) {if 
+        (document.layers||(document.getElementById&&!document.all)) {
+        if (e.which==2||e.which==3) {alert(message);return false;}}}
+        if (document.layers) 
+        {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+        else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+        document.oncontextmenu=new Function("return false")
+        // --> 
+      </script>
+
+<!-- This code for disable left click -->
+
+      <script type="text/JavaScript">
+
+        function disableselect(e){
+        return false
+        }
+        function reEnable(){
+        return true
+        }
+        document.onselectstart=new Function ("return false")
+        if (window.sidebar){
+        document.onmousedown=disableselect
+        document.onclick=reEnable
+        }
+      </script>
   <noscript>This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/Xnuvers007/DAFTAR-WEBSITE-MENARIK">Here</a>.</noscript>
   <div id="app">Loading...</div>
   <script>
