@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/soraxpl/soraxpl.github.io?style=social)](https://github.com/soraxpl/soraxpl.github.io/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Xnuvers007/DAFTAR-WEBSITE-MENARIK?style=social)](https://github.com/Xnuvers007/DAFTAR-WEBSITE-MENARIK/stargazers)
 
 # Daftar Website dan API Menarik dari belahan Dunia
 
@@ -37,13 +37,16 @@ No| Nama Website      |   Developer   |                   URL                   
 9 | Presentasi AI   |   Magical Tome   | [link](https://beta.tome.app/) |  :heavy_check_mark: |  Situs yang membantu manusia untuk membuat presentasi dengan sebuah kata atau kalimat |
 10 | Search Image by Method Reverse (google)     |   Digital Inspiration  | [link](https://www.labnol.org/reverse/) |  :heavy_check_mark: |  Situs untuk pencarian gambar dan menemukan gambar yang ingin di temukan bahkan hampir mirip dengan yang aslinya |
 11 | Random Team Generator     |   Ryuuwiz  | [link](https://team-generator-nine.vercel.app/) |  :heavy_check_mark: |  Situs untuk membuat kelompok secara random dan adil |
-
+12 | Random Team Generator 2     |   Random Team Generator  | [link](https://randomteamgenerator.com/) |  :heavy_check_mark: |  Membuat kelompok secara random dan adil |
+13 | Translate     |   Google Translate  | [link](https://translate.google.com/) |  :heavy_check_mark: |  Situs untuk menerjemahkan sebuah kata atau kalimat |
+14 | Translate 2     |   DeepL  | [link](https://www.deepl.com/translator) |  :heavy_check_mark: |  Situs untuk menerjemahkan sebuah kata atau kalimat |
+15 | Penerjemah Dokumen     |   Doctranslator  | [link](https://www.onlinedoctranslator.com/id/translationform) |  :heavy_check_mark: |  Situs untuk menerjemahkan sebuah dokumen ke beberapa bahasa|
 
 # API
 ### Isi
 No| Nama API      |   Developer   |                   URL                   |     Status      |             Keterangan                |
 --|-------------------|---------------|-----------------------------------------|-----------------|---------------------------------------|
-1 | Wikiscrape     |   Xnuvers007  | [link](https://github.com/Xnuvers007/Wikiscrape) |  :heavy_check_mark: |  API Scraping untuk mengambil data dari wikipedia |
+1 | Wikiscrape     |   Xnuvers007  | [link](https://wikiscrape.xnuvers007.repl.co) |  :heavy_check_mark: |  API Scraping untuk mengambil data dari wikipedia |
 2 | Data Mahasiswa     |   Kemendikbud  | [link](https://api-frontend.kemdikbud.go.id/hit_mhs/NamaMahasiswa) |  :heavy_check_mark: |  API untuk mendapatkan data mahasiswa dari seluruh Indonesia |
 3 | Pinterest     |   Pinterest  | [link](https://developers.pinterest.com/docs/api/overview/) |  :heavy_check_mark: |  API untuk mendapatkan data gambar dari pinterest |
 4 | Random Quotes     |   Quotes  | [link](https://quotes.rest/) |  :heavy_check_mark: |  API untuk mendapatkan data quotes secara random |
@@ -54,6 +57,7 @@ No| Nama API      |   Developer   |                   URL                   |   
 9 | Random Image 4     |   Lorem Picsum  | [link](https://picsum.photos/) |  :heavy_check_mark: |  API untuk mendapatkan data gambar secara random |
 10 | Any-API     |   Any-API  | [link](https://any-api.com/) |  :heavy_check_mark: |  Sebuah website dengan layanan API yang banyak serta dokumentasi dari setiap API Web tertentu |
 11 | Jikan API     |   Jikan.moe  | [link](https://jikan.moe/) |  :heavy_check_mark: |  Unofficial MyAnimeList API untuk mendapatkan data anime dan manga dari MyAnimeList |
+12 | Speedtest Internet & website |   Xnuvers007  | [link](https://wikiscrape.xnuvers007.repl.co/speedtest?domain=) |  :heavy_check_mark: |  API untuk mengetahui kecepatan internet dan ping website |
 
 # Kontak
 Jika ada yang ingin ditambahkan silahkan hubungi saya melalui [Facebook saya](https://www.facebook.com/profile.php?id=100009439790329) ya.! Atau bisa juga langsung Edit dan Pull Request di Github ini.
