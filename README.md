@@ -41,6 +41,27 @@ No| Nama Website      |   Developer   |                   URL                   
 13 | Translate     |   Google Translate  | [link](https://translate.google.com/) |  :heavy_check_mark: |  Situs untuk menerjemahkan sebuah kata atau kalimat |
 14 | Translate 2     |   DeepL  | [link](https://www.deepl.com/translator) |  :heavy_check_mark: |  Situs untuk menerjemahkan sebuah kata atau kalimat |
 15 | Penerjemah Dokumen     |   Doctranslator  | [link](https://www.onlinedoctranslator.com/id/translationform) |  :heavy_check_mark: |  Situs untuk menerjemahkan sebuah dokumen ke beberapa bahasa|
+16 | Wemod  | Personalize Gaming Experience |   [link](https://www.wemod.com/)  |   :heavy_check_mark:  |   Situs untuk personalisai mod game dari berbagai platform|
+17 | WriteSonic    | AI Writer For Blog    |   [link](https://writesonic.com/) |   :heavy_check_mark:  |   Situs untuk membuat artikel SEO tanpa kena plagiarism|
+18 | CopyLeaks   |  Copyleaks Plagiarism Detection  |   [link](https://copyleaks.com/features/ai-content-detector)  |   :heavy_check_mark:  |   Situs untuk mendeteksi plagiarism dari konten artikel yang kamu buat|
+19 | Curipod   |    Generate lesson PPT with AI     |   [link](https://curipod.com/)  |   :heavy_check_mark:  |   Situs untuk kamu yang ingin membuat presentasi dengan AI hanya dengan perintah saja!|
+20 | Cheatography  |    Free Cheat Sheets, Revision Aids and Quick References!  |   [link](https://cheatography.com/)  |   :heavy_check_mark:  |   Situs untuk kamu yang ingin memahami sintaks kode dengan cepat dengan cheatsheet yang lengkap!|
+21| LeetCode   |   Best platform coding to help you enhance your skills   |    [link](https://leetcode.com/)  |   :heavy_check_mark:  |   Situs platform belajar pemrograman dengan soal yang lengkap|
+22 | HackeRank   |   Best platform coding to help you enhance your skills 2   |    [link](https://www.hackerrank.com/)  |   :heavy_check_mark:  |   Situs alternatif platform belajar pemrograman dengan soal yang lengkap|
+23 | FreeCodeCamp   |   Best platform coding to help you enhance your skills 3   |    [link](https://www.freecodecamp.org/)  |   :heavy_check_mark:  |   Situs alternatif platform belajar pemrograman gratis dengan soal yang lengkap|
+24 | CodeWars   |   Best platform coding to help you enhance your skills 4   |    [link](https://www.codewars.com/)  |   :heavy_check_mark:  |   Situs alternatif platform belajar dan pemrograman gratis dengan soal yang lengkap|
+25 | Replit     |   Build software collaboratively from anywhere    |    [link](https://replit.com/)  |   :heavy_check_mark:  |   Situs platform IDE code editor secara online dan juga bisa untuk berkolaborasi|
+26 | DevDocs    |   All Programming Documentation   |   [link](https://devdocs.io/) |   :heavy_check_mark:  |   Situs dokumentasi lengkap bahasa pemrograman|
+27 | W3Schools    |   All Programming Documentation 2   |   [link](https://www.w3schools.com/) |   :heavy_check_mark:  |   Situs alternatif dokumentasi lengkap bahasa pemrograman|
+28 | UIZard   |   AI-powered UI design tool used for designing   |   [link](https://uizard.io/) |   :heavy_check_mark:  |   Situs membuat UI design dengan AI!|
+29 | ReactiveResume   |   open source resume builder   |   [link](https://rxresu.me/) |   :heavy_check_mark:  |   Situs membuat CV dengan keren|
+30 | RoadMap   |   Developer Road Maps   |   [link](https://roadmap.sh/) |   :heavy_check_mark:  |   Situs career path developer|
+
+
+
+
+
+
 
 # API
 ### Isi
@@ -77,6 +98,7 @@ No | Nama | Github
 1 | Xnuvers007 | [Xnuvers007](https://github.com/Xnuvers007)
 2 | bydefaultiloveyou | [bydefaultiloveyou](https://github.com/bydefaultiloveyou)
 3 | Ryuuwiz | [ryuuwiz](https://github.com/ryuuwiz)
+4 | rizkydharma | [rizkydharma02](https://github.com/rizkydharma02)
 
 # Lisensi
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
