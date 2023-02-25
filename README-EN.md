@@ -41,6 +41,8 @@ No| Website Name      |   Developer   |                   URL                   
 13 | Translate     |   Google Translate  | [link](https://translate.google.com/) |  :heavy_check_mark: |  Translate text or sentences into other languages |
 14 | Translate 2     |   DeepL  | [link](https://www.deepl.com/translator) |  :heavy_check_mark: |  Translate text or sentences into other languages |
 15 | Translate Document     |   Doctranslator  | [link](https://www.onlinedoctranslator.com/en/translationform) |  :heavy_check_mark: |  Translate documents into other languages |
+16 | Color-Name | color-name.com | [link](https://www.color-name.com/) | :heavy_check_mark: | A Website to get color references based on color name and hex code that you want to search for |
+17 | Code Design | Nauval Azhar | [link](https://codedesign.dev/) | :heavy_check_mark: | A website that contains a collection of UI Design that can be used as references for Slicing|
 
 # API
 ### Content
@@ -77,6 +79,7 @@ No | Nama | Github
 1 | Xnuvers007 | [Xnuvers007](https://github.com/Xnuvers007)
 2 | bydefaultiloveyou | [bydefaultiloveyou](https://github.com/bydefaultiloveyou)
 3 | Ryuuwiz | [ryuuwiz](https://github.com/ryuuwiz)
+4 | haikelz | [haikelz](https://github.com/haikelz)
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
