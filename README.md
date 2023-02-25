@@ -17,7 +17,7 @@ Kumpulan Website / API tentang data dan informasi berguna yang ada di dunia
             - [Isi](#isi)
         - [API](#api)
             - [Isi](#isi-1)
-    - [kontak](#kontak)
+    - [Kontak](#kontak)
     - [Terima Kasih](#fire-terimakasih-fire)
     - [Kontributor](#kontributor)
     - [Lisensi](#lisensi)
@@ -56,12 +56,8 @@ No| Nama Website      |   Developer   |                   URL                   
 28 | UIZard   |   AI-powered UI design tool used for designing   |   [link](https://uizard.io/) |   :heavy_check_mark:  |   Situs membuat UI design dengan AI!|
 29 | ReactiveResume   |   open source resume builder   |   [link](https://rxresu.me/) |   :heavy_check_mark:  |   Situs membuat CV dengan keren|
 30 | RoadMap   |   Developer Road Maps   |   [link](https://roadmap.sh/) |   :heavy_check_mark:  |   Situs career path developer|
-
-
-
-
-
-
+31 | Color-Name | color-name.com | [link](https://www.color-name.com/) | :heavy_check_mark: | Sebuah Website untuk mendapatkan referensi warna berdasarkan nama warna atau hex code yang ingin dicari|
+32 | Code The Design | Nauval Azhar | [link](https://codedesign.dev/) | :heavy_check_mark: | Sebuah Website yang berisi kumpulan UI Design yang bisa dijadikan referensi untuk Slicing|
 
 # API
 ### Isi
@@ -101,6 +97,7 @@ No | Nama | Github
 3 | Ryuuwiz | [ryuuwiz](https://github.com/ryuuwiz)
 4 | rizkydharma | [rizkydharma02](https://github.com/rizkydharma02)
 5 | pierreaji | [pierreaji](https://github.com/pierreaji)
+6 | haikelz | [haikelz](https://github.com/haikelz)
 
 # Lisensi
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
