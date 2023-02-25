@@ -42,7 +42,7 @@ No| Website Name      |   Developer   |                   URL                   
 14 | Translate 2     |   DeepL  | [link](https://www.deepl.com/translator) |  :heavy_check_mark: |  Translate text or sentences into other languages |
 15 | Translate Document     |   Doctranslator  | [link](https://www.onlinedoctranslator.com/en/translationform) |  :heavy_check_mark: |  Translate documents into other languages |
 16 | Color-Name | color-name.com | [link](https://www.color-name.com/) | :heavy_check_mark: | A Website to get color references based on color name and hex code that you want to search for |
-17 | Code Design | Nauval Azhar | [link](https://codedesign.dev/) | :heavy_check_mark: | A website that contains a collection of UI Design that can be used as references for Slicing|
+17 | Code The Design | Nauval Azhar | [link](https://codedesign.dev/) | :heavy_check_mark: | A Website that contains a collection of UI Design that can be used as references for Slicing|
 
 # API
 ### Content

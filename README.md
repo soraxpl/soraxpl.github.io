@@ -57,7 +57,7 @@ No| Nama Website      |   Developer   |                   URL                   
 29 | ReactiveResume   |   open source resume builder   |   [link](https://rxresu.me/) |   :heavy_check_mark:  |   Situs membuat CV dengan keren|
 30 | RoadMap   |   Developer Road Maps   |   [link](https://roadmap.sh/) |   :heavy_check_mark:  |   Situs career path developer|
 31 | Color-Name | color-name.com | [link](https://www.color-name.com/) | :heavy_check_mark: | Sebuah Website untuk mendapatkan referensi warna berdasarkan nama warna atau hex code yang ingin dicari|
-32 | Code Design | Nauval Azhar | [link](https://codedesign.dev/) | :heavy_check_mark: | Sebuah Website yang berisi kumpulan UI Design yang bisa dijadikan referensi untuk Slicing|
+32 | Code The Design | Nauval Azhar | [link](https://codedesign.dev/) | :heavy_check_mark: | Sebuah Website yang berisi kumpulan UI Design yang bisa dijadikan referensi untuk Slicing|
 
 # API
 ### Isi
