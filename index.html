@@ -24,76 +24,82 @@
       <!-- Add the SweetAlert library -->
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.2/dist/sweetalert2.all.min.js"></script>
       <script>
-        var message="Sorry,Right click disabled. Message from Xnuvers007";
-        ///////////////////////////////////
-        function clickIE() {
-          if (document.all) {
-            // Replace the alert() function with a SweetAlert dialog
-            Swal.fire({
-              title: 'Oops!',
-              text: message,
-              icon: 'warning',
-              confirmButtonText: 'OK'
-            });
-            return false;
-          }
-        }
-        
-        function clickNS(e) {
-          if (document.layers||(document.getElementById&&!document.all)) {
-            if (e.which==2||e.which==3) {
+        var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+        if (!isMobile) {
+          // Masukkan kode JavaScript yang ingin Anda jalankan di sini
+          var message = "Sorry,Right click disabled. Message from Xnuvers007";
+          ///////////////////////////////////
+          function clickIE() {
+            if (document.all) {
               // Replace the alert() function with a SweetAlert dialog
               Swal.fire({
-                title: 'Oops!',
+                title: "Oops!",
                 text: message,
-                icon: 'warning',
-                confirmButtonText: 'OK'
+                icon: "warning",
+                confirmButtonText: "OK",
               });
               return false;
             }
           }
-        }
-        
-        if (document.layers) {
-          document.captureEvents(Event.MOUSEDOWN);
-          document.onmousedown=clickNS;
-        }
-        else{
-          document.onmouseup=clickNS;
-          document.oncontextmenu=clickIE;
-        }
 
-        document.oncontextmenu=new Function("return false");
+          function clickNS(e) {
+            if (document.layers || (document.getElementById && !document.all)) {
+              if (e.which == 2 || e.which == 3) {
+                // Replace the alert() function with a SweetAlert dialog
+                Swal.fire({
+                  title: "Oops!",
+                  text: message,
+                  icon: "warning",
+                  confirmButtonText: "OK",
+                });
+                return false;
+              }
+            }
+          }
 
-        // Replace the alert() function with a SweetAlert dialog
-        function disableselect(e){
-          Swal.fire({
-            title: 'Oops!',
-            text: 'Selecting is disabled',
-            icon: 'warning',
-            confirmButtonText: 'OK'
+          if (document.layers) {
+            document.captureEvents(Event.MOUSEDOWN);
+            document.onmousedown = clickNS;
+          } else {
+            document.onmouseup = clickNS;
+            document.oncontextmenu = clickIE;
+          }
+
+          document.oncontextmenu = new Function("return false");
+
+          // Replace the alert() function with a SweetAlert dialog
+          function disableselect(e) {
+            Swal.fire({
+              title: "Oops!",
+              text: "Selecting is disabled",
+              icon: "warning",
+              confirmButtonText: "OK",
+            });
+            return false;
+          }
+
+          function reEnable() {
+            return true;
+          }
+
+          document.onselectstart = new Function("return false");
+
+          if (window.sidebar) {
+            document.onmousedown = disableselect;
+            document.onclick = reEnable;
+          }
+
+          let docTitle = document.title;
+          window.addEventListener("blur", function () {
+            document.title = "Come back! :(";
           });
-          return false;
+          window.addEventListener("focus", function () {
+            document.title = docTitle;
+          });
         }
-
-        function reEnable(){
-          return true;
-        }
-
-        document.onselectstart=new Function ("return false");
-
-        if (window.sidebar){
-          document.onmousedown=disableselect;
-          document.onclick=reEnable;
-        }
-        let docTitle = document.title;
-        window.addEventListener('blur', function() {
-          document.title = 'Come back! :(';
-        });
-        window.addEventListener('focus', function() {
-          document.title = docTitle;
-        });
       </script>
+
 
   <noscript>This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/soraxpl/soraxpl.github.io">Here</a>.</noscript>
   <div id="app">Loading...</div>
